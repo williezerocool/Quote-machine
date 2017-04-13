@@ -1,0 +1,32 @@
+
+
+/*.quoteDiv{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10%;
+}*/
+
+.jumbotron{
+   
+    font-family: 'Lobster', cursive;
+   
+}
+
+.heading{
+    color: black;
+}
+
+#quoteButton{
+    font-family: 'Lobster', cursive;
+    margin-top: 5%;
+    
+    
+}
+
+#quoteDisplay{
+   font-family: 'Lobster', cursive;
+   margin-top: 7%; 
+}
+
